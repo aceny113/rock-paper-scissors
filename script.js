@@ -119,6 +119,7 @@ function playAgain() {
 
     humanScore = 0;
     computerScore = 0;
+    title.textContent = "Welcome to Rock Paper Scissor Game!";
     myChoice.textContent = "";
     enemyChoice.textContent = "";
     judge.textContent = "";
